@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+eco.db
+.env
+*.log
+.DS_Store
+*.zip
+EcoHabit_Tacker_Screencast.MOV
